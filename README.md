@@ -1,7 +1,7 @@
 # mfc1
 README_md
 //0910
-
+//pen 만들기
 
 CPoint pnt;
 void Cpen2Dlg::OnMouseMove(UINT nFlags, CPoint point)
